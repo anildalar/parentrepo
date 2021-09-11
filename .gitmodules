@@ -1,0 +1,6 @@
+[submodule "childrepo1"]
+	path = childrepo1
+	url = https://github.com/anildalar/childrepo1.git
+[submodule "childrepo2"]
+	path = childrepo2
+	url = https://github.com/anildalar/childrepo2.git
